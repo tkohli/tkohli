@@ -27,9 +27,9 @@ SysAdmin, Certified Ethical Hacker. </h3>
 - 📫 How to reach me: ... <br> 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.codes <br> 
 -🏅 My Favourite Hobby Computers and games <br> 
-<!--
+
 <h2 align="center">Connect Me In</h2>
-<a href="https://www.linkedin.com/in/tanishkakohli/" target="black" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="black" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2><br><br>-->
+<a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2><br><br>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tkohli" alt="tkohli"> </p>
 
