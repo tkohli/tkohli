@@ -11,7 +11,16 @@
 <br>
 <h3> Skills:
   
-  <br><p align = "center"><a target="_blank" rel="noopener noreferrer" href="https://assets.exercism.io/tracks/sml-hex-turquoise.png"><img height="40" src="https://assets.exercism.io/tracks/sml-hex-turquoise.png" style="max-width:100%;"></a>
+  <br><p align = "center">
+  <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://assets.exercism.io/tracks/sml-hex-turquoise.png"><img height="40" src="https://assets.exercism.io/tracks/sml-hex-turquoise.png" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.icon-icons.com/icons2/2235/PNG/512/linux_os_logo_icon_134670.png"><img height="40" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/linux_os_logo_icon_134670.png" style="max-width:100%;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
     <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width:100%;"></a>
