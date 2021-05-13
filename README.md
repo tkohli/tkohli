@@ -9,7 +9,35 @@
 
 <p align="center"> I am programmer, with my skills expanding from hardware and networking to cyber security and AWS and Azure cloud. I am also a founder of startup called Network Infotech Solutions visit www.networkinfotechsolutions.tech <br> See my portfolio www.tanishkakohli.codes <br> My Resume www.tanishkakohli.codes/cv.pdf</p>
 <br>
-<h3> Skills: Machine Learning & AI, Linux, Git & Github, mySQL,
+<h3> Skills:
+  
+  <br><p align = "center"><a target="_blank" rel="noopener noreferrer" href="https://assets.exercism.io/tracks/sml-hex-turquoise.png"><img height="40" src="https://assets.exercism.io/tracks/sml-hex-turquoise.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.icon-icons.com/icons2/2235/PNG/512/linux_os_logo_icon_134670.png"><img height="40" src="https://cdn.icon-icons.com/icons2/2235/PNG/512/linux_os_logo_icon_134670.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png">
+    <img height="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://pngimg.com/uploads/mysql/mysql_PNG23.png">
+    <img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/1.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/1.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/6.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/6.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/7.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/7.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/8.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/8.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/9.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/9.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/10.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/10.png" style="max-width:100%;"></a>
+   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/11.png">
+    <img height="40" src="https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/11.png" style="max-width:100%;"></a>
+</p> 
+  
+  
+  
+  <br>Machine Learning & AI, Linux, Git & Github, mySQL,
 Web Development, Flask, Algorithm Design and Analysis,
 Data Structure, Networking, CCNA, Cloud Platforms,
 SysAdmin, Certified Ethical Hacker. </h3>
