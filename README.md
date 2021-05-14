@@ -90,6 +90,6 @@ SysAdmin, Certified Ethical Hacker. </h3>
 
 <h3 align="left">Support me :</h3>
 <p><a href="https://www.buymeacoffee.com/tkohli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tkohli" /></a></p>
-<br>
+<br><br>
 <h2 align="left">Connect me on</h2>
 <a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2>
