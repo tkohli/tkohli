@@ -84,7 +84,7 @@ SysAdmin, Certified Ethical Hacker. </h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko" alt="tkohli" >
 <img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko" alt="tkohli" ></p>
 The above data might take 12 hours to refresh so <br>
-To check latest streak [click here]("https://github-readme-streak-stats.herokuapp.com/?user=tkohli&" alt="tkohli")
+To check latest streak [click here](https://github-readme-streak-stats.herokuapp.com/?user=tkohli)
 
 <!--
 **tkohli/tkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
