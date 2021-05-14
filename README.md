@@ -79,10 +79,10 @@ SysAdmin, Certified Ethical Hacker. </h3>
 
 <br>
 <h1 align="left">Github Stats and trophies 🏆 </h1>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=monokai" alt="tkohli"><br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=monokai&no-frame=true&row=1&column=6" alt="tkohli"> <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=monokai" alt="tkohli" >
-<img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=monokai" alt="tkohli" ></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko" alt="tkohli"><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-frame=true&row=1&column=6" alt="tkohli"> <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko" alt="tkohli" >
+<img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko" alt="tkohli" ></p>
 <!--
 **tkohli/tkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
