@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello There 👋,I am Tanishka Kohli </h1>
 <h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi</h3>
-<h3 align="center"> Call me tech savvy </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli"></p>
 <p align = "left"><img src="https://img.shields.io/badge/OS-Linux and Windows-informational?style=flat&logo=linux&logoColor=white&color=0e75b6" alt="tkohli">
@@ -16,7 +16,7 @@
 ![](https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/banner.png?token=AINLYYYZWBE7OPKM4PA6BPDAUSYUI)
 
 
-<p align="center"> I am programmer, with my skills expanding from 🖥️ hardware and connetworking to cyber security and AWS and Azure cloud. I am also a founder of startup called Network Infotech Solutions visit www.networkinfotechsolutions.tech <br> See my portfolio www.tanishkakohli.codes <br> My Resume www.tanishkakohli.codes/cv.pdf</p>
+<p align="center"> I am programmer, with my skills expanding from 🖥️ hardware and connetworking to cyber security and AWS and Azure cloud, Call me tech savvy. I am also a founder of startup called Network Infotech Solutions visit www.networkinfotechsolutions.tech <br> See my portfolio www.tanishkakohli.codes <br> My Resume www.tanishkakohli.codes/cv.pdf</p>
 <br>
 <h3> Skills:
   
