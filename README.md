@@ -75,22 +75,21 @@ SysAdmin, Certified Ethical Hacker. </h3>
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.codes <br> 
 -🏅 My Favourite Hobby Computers and games <br> 
 
-<h2 align="center">Connect me on</h2>
-<a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2><br><br>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tkohli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tkohli" /></a></p><br><br>
+<br><br>
 
 <br>
-<h1 align="center">Github Stats</h1>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=monokai&no-frame=true" alt="tkohli"> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=monokai" alt="tkohli" > </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=monokai" alt="tkohli" > </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=monokai" alt="tkohli" ></p>
+<h1 align="left">Github Stats</h1>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=monokai" alt="tkohli" > <br>
+<img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=monokai&no-frame=true&row=1&column=6" alt="tkohli"> <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=monokai" alt="tkohli" >
+<img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=monokai" alt="tkohli" ></p>
 <!--
 **tkohli/tkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
+<br><br>
 
+<h3 align="left">Support me :</h3>
+<p><a href="https://www.buymeacoffee.com/tkohli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tkohli" /></a></p>
+<br>
+<h2 align="left">Connect me on</h2>
+<a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2>
