@@ -65,16 +65,18 @@ SysAdmin, Certified Ethical Hacker. </h3>
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.codes <br> 
 -🏅 My Favourite Hobby Computers and games <br> 
 
-<h2 align="center">Connect Me In</h2>
+<h2 align="center">Connect me on</h2>
 <a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2><br><br>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tkohli" alt="tkohli"> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&" alt="tkohli" > </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=monokai&no-frame=true" alt="tkohli"> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact" alt="tkohli" > </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=monokai" alt="tkohli" > </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en" alt="tkohli" ></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=monokai" alt="tkohli" > </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=monokai" alt="tkohli" ></p>
 <!--
 **tkohli/tkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
+
