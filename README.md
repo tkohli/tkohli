@@ -61,3 +61,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=tkohli
 <br><br>
 <h2 align="left">Connect me on</h2>
 <a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tkohli)](https://github.com/ryo-ma/github-profile-trophy)
