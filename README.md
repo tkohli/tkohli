@@ -10,19 +10,6 @@
 <img src="https://img.shields.io/badge/Learning- New Things Daily-informational?style=flat&logo=futurelearn&logoColor=white&color=0e75b6" alt="tkohli">
 </p>
 
-<p align="left">You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-<a href="https://twitter.com/kohli00" target="blank"><img src="https://img.shields.io/twitter/follow/tkohli00?logo=twitter&style=for-the-badge" alt="tkohli00" /></a> 
-</p>
 <!--https://simpleicons.org/?q=ide-->
 
 
@@ -84,7 +71,7 @@ SysAdmin, Certified Ethical Hacker. </h3>
 - 👯 I’m looking to collaborate on python projects <br> 
 - 🤔 I’m looking for help with any technology so that everyone can learn new things <br> 
 - 💬 Ask me about anything, I love helping everyone <br> 
-- 📫 How to reach me: ... <br> 
+- 📫 How to reach me: tanishka.kohli00@gmail.com <br> 
 - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.codes <br> 
 -🏅 My Favourite Hobby Computers and games <br> 
 
@@ -95,7 +82,7 @@ SysAdmin, Certified Ethical Hacker. </h3>
 <p><a href="https://www.buymeacoffee.com/tkohli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tkohli" /></a></p><br><br>
 
 <br>
-## Guthub Stats:
+<h1 align="center">Github Stats</h1>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=monokai&no-frame=true" alt="tkohli"> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=monokai" alt="tkohli" > </p>
