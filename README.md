@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 <h1 align="center">Hello There 👋,I am Tanishka Kohli </h1>
 <h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi</h3>
 
@@ -49,6 +44,7 @@ SysAdmin, Certified Ethical Hacker. </p>
 <br>
 <h1 align="left">Github Stats and trophies 🏆 </h1>
 <br>
+
 [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=tkohli) | [![streak](https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tkohli)
 ------------ | -------------
 [![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli) | [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko)](https://github-readme-stats.vercel.app/api?username=tkohli)
