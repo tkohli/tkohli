@@ -1,4 +1,8 @@
-
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <h1 align="center">Hello There 👋,I am Tanishka Kohli </h1>
 <h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi</h3>
 
@@ -44,10 +48,20 @@ SysAdmin, Certified Ethical Hacker. </p>
 
 <br>
 <h1 align="left">Github Stats and trophies 🏆 </h1>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko" alt="tkohli"><br><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=tkohli) <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko" alt="tkohli" >
-<img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko" alt="tkohli" ></p>
+
+[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github.com/ryo-ma/github-profile-trophy) | [![streak](https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+------------ | -------------
+[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)]() | [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko)]()
+
+<!--[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+[![streak](https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)]()
+<br>
+[![stats](https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko)]()
+
+
 
 
 <!--
@@ -64,4 +78,3 @@ https://github-readme-streak-stats.herokuapp.com/?user=tkohli
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=tkohli)
