@@ -45,7 +45,7 @@ SysAdmin, Certified Ethical Hacker. </p>
 <br>
 <h1 align="left">Github Stats and trophies 🏆 </h1>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko" alt="tkohli"><br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-frame=true&row=1&column=6" alt="tkohli"> <br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=tkohli) <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko" alt="tkohli" >
 <img src="https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko" alt="tkohli" ></p>
 
@@ -64,4 +64,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=tkohli
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tkohli)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=tkohli)
