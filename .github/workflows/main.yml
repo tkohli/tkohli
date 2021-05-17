@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.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}}
 
           # Options
           user: tkohli
