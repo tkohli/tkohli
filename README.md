@@ -47,7 +47,7 @@ SysAdmin, Certified Ethical Hacker. </p>
 
 [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=tkohli) | [![streak](https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tkohli)
 ------------ | -------------
-[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli) | [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko)](https://github-readme-stats.vercel.app/api?username=tkohli&count_private=true)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli) | [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&count_private=true&show_icons=true&locale=en&theme=merko)](https://github-readme-stats.vercel.app/api?username=tkohli&count_private=true)
 
 <!--[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
