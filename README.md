@@ -72,5 +72,5 @@ https://github-readme-streak-stats.herokuapp.com/?user=tkohli
 <h2 align="left">Connect me on</h2>
 <a href="https://www.linkedin.com/in/tanishkakohli/" target="blank" alt=> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> </a><a href="https://www.youtube.com/channel/UCt2Rz4a2eOZZuNcUdAhpYUQ" target="blank" alt> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a></h2>
 
-
+<br><br>More stats (if not loading try clicking link below or just check back later)
 ![Metrics](https://metrics.lecoq.io/tkohli?template=classic&isocalendar=1&languages=1&habits=1&lines=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
