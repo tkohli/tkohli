@@ -59,13 +59,18 @@ SysAdmin, Certified Ethical Hacker. </p>
 <br>
 [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&show_icons=true&locale=en&theme=merko)]()
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
 **tkohli/tkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 https://github-readme-streak-stats.herokuapp.com/?user=tkohli
+
 -->
+
+[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=tkohli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=tkohli&theme=github&count_private=true)
+
+
 <br><br>
 
 <h3 align="left">Support me :</h3>
