@@ -48,7 +48,7 @@ SysAdmin, Certified Ethical Hacker. </p>
 | [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=tkohli) | [![streak](https://github-profile-trophy.vercel.app/?username=tkohli&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=tkohli) | 
 ------------ | -------------
 [![stats](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli&show_icons=true&locale=en&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs?username=tkohli) | [![stats](https://github-readme-stats.vercel.app/api?username=tkohli&count_private=true&show_icons=true&locale=en&theme=merko)](https://github-readme-stats.vercel.app/api?username=tkohli&count_private=true)
-| [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tkohli&theme=merko)](https://github-contribution-stats.vercel.app/api/?username=tkohli) | [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkohli)](https://github-readme-stats.vercel.app/api/wakatime?username=tkohli)<br>waka stats are currently under testing phase | 
+| [![repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkohli&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkohli&theme=github_dark) | [![commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkohli&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkohli&theme=github_dark) | [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=tkohli&theme=merko)](https://github-contribution-stats.vercel.app/api/?username=tkohli) | [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkohli)](https://github-readme-stats.vercel.app/api/wakatime?username=tkohli) | 
 
 
 <!--[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=tkohli&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
@@ -69,6 +69,9 @@ https://github-readme-streak-stats.herokuapp.com/?user=tkohli
 -->
 
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=tkohli&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=tkohli&theme=github&count_private=true)
+<br>
+[![Tanishka's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkohli&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkohli&theme=github_dark)
+
 
 
 <br><br>
