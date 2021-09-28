@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/banner.png?token=AINLYYYZWBE7OPKM4PA6BPDAUSYUI)
 
-
+Note: Portfolio website coming back again 
 <p align="center"> I am programmer, with my skills expanding from 🖥️ hardware and connetworking to cyber security and AWS and Azure cloud, basically a tech savvy. I am also a founder of startup called Network Infotech Solutions visit www.networkinfotechsolutions.tech <br> See my portfolio www.tanishkakohli.codes <br> My Resume www.tanishkakohli.codes/cv.pdf</p>
 <br>
 <h3> Skills:</h3> 
