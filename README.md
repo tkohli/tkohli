@@ -35,7 +35,7 @@ SysAdmin, Certified Ethical Hacker. </p>
 - 🤔 I’m looking for help with any technology so that everyone can learn new things <br> 
 - 💬 Ask me about anything, I love helping everyone <br> 
 - 📫 How to reach me: tanishka.kohli00@gmail.com <br> 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.codes <br> 
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 My Personal Website www.tanishkakohli.me <br> 
 -🏅 My Favourite Hobby Computers and games <br> 
 
 <br><br>
