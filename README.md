@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋,I am Tanishka Kohli </h1>
-<h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi</h3>
+<h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi 😉</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli"></p>
