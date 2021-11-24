@@ -2,10 +2,11 @@
 <h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi 😉</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli">
-  [![wakatime](https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg)]
-<!--   <a href="https://wakatime.com/@b88cad03-5c16-4b41-9cc0-a762dccd577a"><img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" /></a>
-  <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="wakatime"> --></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli"></p>
+  <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" />
+<!--   [![wakatime](https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg)]
+  <a href="https://wakatime.com/@b88cad03-5c16-4b41-9cc0-a762dccd577a"><img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" /></a>
+  <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="wakatime"> -->
 <p align = "left"><img src="https://img.shields.io/badge/OS-Linux and Windows-informational?style=flat&logo=linux&logoColor=white&color=0e75b6" alt="tkohli">
   <img src="https://img.shields.io/badge/IDE-Pycharm professional, VScode, Jupyter Notebooks-informational?style=flat&logo=intellijidea&logoColor=white&color=0e75b6" alt="tkohli">
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0e75b6" alt="tkohli">
