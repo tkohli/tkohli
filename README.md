@@ -2,8 +2,8 @@
 <h3 align="center">A programmer who can fix your computer and hack into your neighbors wifi 😉</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli"></p>
-  <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tkohli&label=Profile%20views&color=0e75b6&style=flat" alt="tkohli"><br>
+  <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" />  Total time coded since Jun 7 2021</p>
 <!--   [![wakatime](https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg)]
   <a href="https://wakatime.com/@b88cad03-5c16-4b41-9cc0-a762dccd577a"><img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="Total time coded since Jun 7 2021" /></a>
   <img src="https://wakatime.com/badge/user/b88cad03-5c16-4b41-9cc0-a762dccd577a.svg" alt="wakatime"> -->
