@@ -29,7 +29,6 @@ Web Development, Flask, Algorithm Design and Analysis,
 Data Structure, Networking, CCNA, Cloud Platforms,
 SysAdmin, Certified Ethical Hacker. </p>
 
-<h4> College: Takshshila Institute of Engineering and Technology </h4> <br>
 
 
 <h2 align="left"> What I am Doing? </h2>
