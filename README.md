@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Learning- New Things Daily-informational?style=flat&logo=futurelearn&logoColor=white&color=0e75b6" alt="tkohli">
 </p>
 
-<!--https://simpleicons.org/?q=ide-->
 
 
 ![](https://raw.githubusercontent.com/tkohli/Tanishka-Portfolio/main/banner.png?token=AINLYYYZWBE7OPKM4PA6BPDAUSYUI)
