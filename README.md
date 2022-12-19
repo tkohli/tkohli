@@ -41,7 +41,6 @@ SysAdmin, Certified Ethical Hacker. </p>
 -🏅 My Favourite Hobby Computers and games <br> 
 
 <br><br>
-
 <br>
 <h1 align="left">Github Stats and trophies 🏆 </h1>
 <br>
